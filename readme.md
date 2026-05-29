@@ -16,6 +16,7 @@ A structured repository for mastering:
 - Computer Networks
 - OOPS
 - Backend
+- Frontend
 - DevOps
 - Cloud
 
