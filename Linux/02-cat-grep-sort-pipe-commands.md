@@ -194,3 +194,4 @@ cat users.txt | sort
 * grep -i → Ignore case
 * grep -n → Show line numbers
 * sort -r → Reverse sorting
+....
