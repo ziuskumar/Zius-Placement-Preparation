@@ -1,10 +1,8 @@
 # 🟢 Level 1 — Foundations
 
-Master the core concepts of System Design before moving on to databases, caching, networking, and distributed systems.
-
 ## 📚 Topics Covered
 
-- [01. What is System Design?](./01-what-is-system-design.md)
+- [01. What is System Design?](./01-what-is-system-design.md) ✅
 - [02. Functional vs Non-Functional Requirements](./02-functional-vs-non-functional-requirements.md)
 - [03. Scalability](./03-scalability.md)
 - [04. Latency vs Throughput](./04-latency-vs-throughput.md)
@@ -18,14 +16,8 @@ Master the core concepts of System Design before moving on to databases, caching
 
 ## 🎯 Progress
 
-**Completed:** 0 / 9
+**Completed:** 1 / 9
 
 ```
-⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩⬜⬜⬜⬜⬜⬜⬜⬜
 ```
-
----
-
-## 🚀 Next Topic
-
-**01. What is System Design?**
