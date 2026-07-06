@@ -10,7 +10,7 @@ This section focuses on designing software at the class and object level. It cov
 ## 📚 Topics Covered
 
 - [01. Introduction to Low-Level Design](./01-introduction-to-low-level-design.md) ✅
-- [02. Object-Oriented Programming (OOP) Revision](./02-object-oriented-programming.md)
+- [02. Object-Oriented Programming (OOP)](./02-object-oriented-programming.md) ✅
 - [03. UML Diagrams](./03-uml-diagrams.md)
 - [04. SOLID Principles](./04-solid-principles.md)
 - [05. DRY, KISS & YAGNI Principles](./05-dry-kiss-yagni.md)
@@ -24,9 +24,9 @@ This section focuses on designing software at the class and object level. It cov
 
 ## 📊 Progress
 
-**Completed:** 1 / 17
+**Completed:** 2 / 17
 
 ```
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜
 ```
