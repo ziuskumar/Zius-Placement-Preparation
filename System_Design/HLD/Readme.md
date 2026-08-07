@@ -10,15 +10,19 @@ This section focuses on designing scalable, distributed, and highly available so
 
 ## 🟢 Level 1 — Foundations
 
-- [ ] 01. What is System Design?
-- [ ] 02. Functional vs Non-Functional Requirements
-- [ ] 03. Scalability
-- [ ] 04. Latency vs Throughput
-- [ ] 05. Vertical vs Horizontal Scaling
-- [ ] 06. Load Balancer
-- [ ] 07. Reverse Proxy
-- [ ] 08. Web Server vs Application Server
-- [ ] 09. Monolith vs Microservices
+# 📙 High-Level Design (HLD)
+
+## 📚 Topics Covered
+
+- [01. What is System Design?](./01-what-is-system-design.md) ✅
+- [02. Functional vs Non-Functional Requirements](./02-functional-vs-non-functional-requirements.md) ✅
+- [03. Latency vs Throughput](./03-latency-vs-throughput.md) ✅
+- [04. Vertical vs Horizontal Scaling](./04-vertical-vs-horizontal-scaling.md) ✅
+- [05. Scalability](./05-scalability.md) ✅
+- [06. Load Balancer](./06-load-balancer.md) ✅
+- [07. Reverse Proxy](./07-reverse-proxy.md) ✅
+- [08. Web Server vs Application Server](./08-web-server-vs-application-server.md) ✅
+- [09. Monolith vs Microservices](./09-monolith-vs-microservices.md) ✅
 
 ---
 
