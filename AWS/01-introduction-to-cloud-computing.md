@@ -421,7 +421,7 @@ For SDE and Cloud interviews, always be able to explain:
 - Cloud Computing
 - IaaS vs PaaS vs SaaS
 - Scalability vs Elasticity
-- Public vs Private vs Hybrid Cloud
+- Public vs Private vs Hybrid Cloudd
 - Pay-as-you-go model
 
 These concepts form the foundation for understanding AWS services like EC2, S3, RDS, Lambda, and more.
