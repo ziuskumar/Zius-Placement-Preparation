@@ -18,7 +18,7 @@ google.com
 
 # 📌 Definition
 
-> **DNS is a distributed naming system that maps domain names to IP addresses.**
+> **DNS is a distributed naming system that maps domain names to IP addresses.***
 
 ---
 
